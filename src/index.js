@@ -14,7 +14,7 @@ ReactDOM.render(
     <Router>
       <div>
         <Switch>
-          <Route exact path="/" component={LandingPages} />
+            <Route exact path={process.env.PUBLIC_URL + '/'} component={LandingPages} />
         </Switch>
       </div>
     </Router>,
