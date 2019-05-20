@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/upah.id/./static/css/main.4d344658.chunk.css",
-    "main.js": "/upah.id/./static/js/main.a5950ddb.chunk.js",
-    "main.js.map": "/upah.id/./static/js/main.a5950ddb.chunk.js.map",
-    "runtime~main.js": "/upah.id/./static/js/runtime~main.91edb05e.js",
-    "runtime~main.js.map": "/upah.id/./static/js/runtime~main.91edb05e.js.map",
-    "static/js/2.9d3cd486.chunk.js": "/upah.id/./static/js/2.9d3cd486.chunk.js",
-    "static/js/2.9d3cd486.chunk.js.map": "/upah.id/./static/js/2.9d3cd486.chunk.js.map",
-    "index.html": "/upah.id/./index.html",
-    "precache-manifest.978c65c2c57262edfbeebc765c83b8e6.js": "/upah.id/./precache-manifest.978c65c2c57262edfbeebc765c83b8e6.js",
-    "service-worker.js": "/upah.id/./service-worker.js",
-    "static/css/main.4d344658.chunk.css.map": "/upah.id/./static/css/main.4d344658.chunk.css.map",
-    "static/media/Mockup.png": "/upah.id/./static/media/Mockup.66e2402a.png",
-    "static/media/LandingPages.sass": "/upah.id/./static/media/header.9258a0c3.jpg",
-    "static/media/upah.png": "/upah.id/./static/media/upah.7f34d89c.png"
+    "main.css": "/upah.id/static/css/main.4d1f3cfc.chunk.css",
+    "main.js": "/upah.id/static/js/main.bfadfecf.chunk.js",
+    "main.js.map": "/upah.id/static/js/main.bfadfecf.chunk.js.map",
+    "runtime~main.js": "/upah.id/static/js/runtime~main.ebde0166.js",
+    "runtime~main.js.map": "/upah.id/static/js/runtime~main.ebde0166.js.map",
+    "static/js/2.9d3cd486.chunk.js": "/upah.id/static/js/2.9d3cd486.chunk.js",
+    "static/js/2.9d3cd486.chunk.js.map": "/upah.id/static/js/2.9d3cd486.chunk.js.map",
+    "index.html": "/upah.id/index.html",
+    "precache-manifest.f8287172cba261a072b0e912633be60f.js": "/upah.id/precache-manifest.f8287172cba261a072b0e912633be60f.js",
+    "service-worker.js": "/upah.id/service-worker.js",
+    "static/css/main.4d1f3cfc.chunk.css.map": "/upah.id/static/css/main.4d1f3cfc.chunk.css.map",
+    "static/media/Mockup.png": "/upah.id/static/media/Mockup.66e2402a.png",
+    "static/media/LandingPages.sass": "/upah.id/static/media/header.9258a0c3.jpg",
+    "static/media/upah.png": "/upah.id/static/media/upah.7f34d89c.png"
   }
 }
