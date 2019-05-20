@@ -11,10 +11,12 @@ import LandingPages from './pages/LandingPages/LandingPages'
 
 
 ReactDOM.render(
-    <Router>
+    <Router
+        basename="/upah.id"
+    >
       <div>
         <Switch>
-            <Route exact path={process.env.PUBLIC_URL + '/'} component={LandingPages} />
+          <Route exact path="/" component={LandingPages} />
         </Switch>
       </div>
     </Router>,
