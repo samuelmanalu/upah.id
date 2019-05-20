@@ -2,7 +2,7 @@
   "name": "upah.id",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://samuelmanalu.github.io/upah.id/.",
+  "homepage": "https://samuelmanalu.github.io/upah.id/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
