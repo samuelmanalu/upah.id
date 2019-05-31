@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "887f697b0b7342fbf4be6b28e29d65d3",
+    "revision": "415a020ab6ce28b72a149c6d5d628992",
     "url": "/upah.id/./index.html"
   },
   {
-    "revision": "896497a6111a2001f416",
+    "revision": "5abdb1812c60e308749e",
     "url": "/upah.id/./static/css/main.e6b27c1c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/upah.id/./static/js/2.311ba783.chunk.js"
   },
   {
-    "revision": "896497a6111a2001f416",
-    "url": "/upah.id/./static/js/main.de4e2224.chunk.js"
+    "revision": "5abdb1812c60e308749e",
+    "url": "/upah.id/./static/js/main.8a25ccb4.chunk.js"
   },
   {
     "revision": "b9f3f2660377f080f943",
