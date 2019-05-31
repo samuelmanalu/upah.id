@@ -17,7 +17,7 @@ class LandingPages extends Component{
                     <Container fluid className="background-image outer-center">
                         <div className="container-text middle-center">
                             <div className="inner-center text-style">
-                                <h1>Yes!<br/> We have solution<br/> for this problem!</h1>
+                                <h1 className="add-margin-bottom">Yes!<br/> We have solution<br/> for this problem!</h1>
                                 <a className="button-green" href="#about">Learn More</a>
                             </div>
                         </div>
@@ -44,6 +44,13 @@ class LandingPages extends Component{
                                 </div>
                             </Col>
                         </Row>
+                    </Container>
+                    <Container fluid className="background-image outer-center save-image">
+                        <div className="container-text middle-center darker">
+                            <div className="inner-center text-style text-center">
+                                <h1>Let's save the word and get money!</h1>
+                            </div>
+                        </div>
                     </Container>
                 </div>
             </div>

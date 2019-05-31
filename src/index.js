@@ -12,7 +12,7 @@ import LandingPages from './pages/LandingPages/LandingPages'
 
 ReactDOM.render(
     <Router
-        basename="/upah.id/public"
+        basename= {process.env.PUBLIC_URL}
     >
       <div>
         <Switch>
