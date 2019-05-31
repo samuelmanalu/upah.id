@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/upah.id/static/css/main.4d1f3cfc.chunk.css",
-    "main.js": "/upah.id/static/js/main.bfadfecf.chunk.js",
-    "main.js.map": "/upah.id/static/js/main.bfadfecf.chunk.js.map",
+    "main.css": "/upah.id/static/css/main.927fd040.chunk.css",
+    "main.js": "/upah.id/static/js/main.b07d830b.chunk.js",
+    "main.js.map": "/upah.id/static/js/main.b07d830b.chunk.js.map",
     "runtime~main.js": "/upah.id/static/js/runtime~main.ebde0166.js",
     "runtime~main.js.map": "/upah.id/static/js/runtime~main.ebde0166.js.map",
     "static/js/2.9d3cd486.chunk.js": "/upah.id/static/js/2.9d3cd486.chunk.js",
     "static/js/2.9d3cd486.chunk.js.map": "/upah.id/static/js/2.9d3cd486.chunk.js.map",
     "index.html": "/upah.id/index.html",
-    "precache-manifest.31be129a5aabf96978fc7c57ebc7c0e6.js": "/upah.id/precache-manifest.31be129a5aabf96978fc7c57ebc7c0e6.js",
+    "precache-manifest.d12edf28ea7724c7bfbe96d4399caac9.js": "/upah.id/precache-manifest.d12edf28ea7724c7bfbe96d4399caac9.js",
     "service-worker.js": "/upah.id/service-worker.js",
-    "static/css/main.4d1f3cfc.chunk.css.map": "/upah.id/static/css/main.4d1f3cfc.chunk.css.map",
+    "static/css/main.927fd040.chunk.css.map": "/upah.id/static/css/main.927fd040.chunk.css.map",
     "static/media/Mockup.png": "/upah.id/static/media/Mockup.66e2402a.png",
-    "static/media/LandingPages.sass": "/upah.id/static/media/header.9258a0c3.jpg",
+    "static/media/LandingPages.sass": "/upah.id/static/media/save.5e50c23b.jpg",
     "static/media/upah.png": "/upah.id/static/media/upah.7f34d89c.png"
   }
 }
