@@ -18,16 +18,16 @@ import LandingPages from './pages/LandingPages/LandingPages'
 //           <Route exact path="/" component={LandingPages} />
 //         </Switch>
 //       </div>
-//     </Router>,
+//     </Router>
 //     document.getElementById("root")
 //   );
   
 //   serviceWorker.unregister();
   
 ReactDOM.render(
-  <Router>
+  <Router basename= {process.env.PUBLIC_URL}>
       <div>
-        <Route exact path={process.env.PUBLIC_URL + '/'} component={LandingPages} />
+        <Route exact path='/' component={LandingPages} />
       </div>
   </Router>,
   document.getElementById('root')
