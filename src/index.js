@@ -9,28 +9,28 @@ import * as serviceWorker from './serviceWorker';
 // pages
 import LandingPages from './pages/LandingPages/LandingPages'
 
+// ReactDOM.render(
+//     <Router
+//         basename= {process.env.PUBLIC_URL}
+//     >
+//       <div>
+//         <Switch>
+//           <Route exact path="/" component={LandingPages} />
+//         </Switch>
+//       </div>
+//     </Router>,
+//     document.getElementById("root")
+//   );
+  
+//   serviceWorker.unregister();
+  
 ReactDOM.render(
-    <Router
-        basename= {process.env.PUBLIC_URL}
-    >
+  <Router>
       <div>
-        <Switch>
-          <Route exact path="/" component={LandingPages} />
-        </Switch>
+        <Route exact path={process.env.PUBLIC_URL + '/'} component={LandingPages} />
       </div>
-    </Router>,
-    document.getElementById("root")
-  );
-  
-  serviceWorker.unregister();
-  
-  // ReactDOM.render(
-  //   <Router>
-  //       <div>
-  //         <Route exact path={process.env.PUBLIC_URL + '/'} component={LandingPages} />
-  //       </div>
-  //   </Router>,
-  //   document.getElementById('root')
-  // );
-  
-  // serviceWorker.unregister(); 
+  </Router>,
+  document.getElementById('root')
+);
+
+  serviceWorker.unregister(); 
